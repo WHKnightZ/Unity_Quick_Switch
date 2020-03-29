@@ -24,10 +24,10 @@ public class BarController : MonoBehaviour
         }
     }
 
-    public static void Reload(string level, int star)
+    public static void Reload(int level, int star)
     {
         bar.SetActive(true);
-        txtLevel.text = level;
+        txtLevel.text = "Level " + level;
         txtStar.text = "Stars " + star;
     }
 

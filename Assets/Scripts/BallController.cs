@@ -32,7 +32,7 @@ public class BallController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         soundStar = Resources.Load<AudioClip>("Sounds/Star");
         soundGoal = Resources.Load<AudioClip>("Sounds/Goal");
-        BarController.Reload(SceneManager.GetActiveScene().name, maxStar);
+        BarController.Reload(SceneManager.GetActiveScene().buildIndex, maxStar);
         txtStar = BarController.txtStar;
         if (BoardController.board.activeInHierarchy)
             delayStart = 2f;
