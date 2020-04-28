@@ -17,7 +17,7 @@ Thanks to Harry Kilian
 
 ### Conclusion
 
-![](https://i.imgur.com/3kmB4dB.png =400x300)
+<img src="https://i.imgur.com/3kmB4dB.png" width="400"/>
 
 Play Online: https://whknightz.itch.io/quick-switch
 
