@@ -14,6 +14,7 @@ I think I also know a little bit about Unity 2d <br />
 
 ## Conclusion:
 
-<img src="https://i.imgur.com/3kmB4dB.png" width="400"/> <br />
+<img src="https://i.imgur.com/3kmB4dB.png" width="600"/> <br />
+
 - <b>Play Online:</b> https://whknightz.itch.io/quick-switch <br />
 - <b>How to play:</b> https://youtu.be/SAi36XjTVtg <br />
