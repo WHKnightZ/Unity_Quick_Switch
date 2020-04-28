@@ -9,7 +9,7 @@ I think I also know a little bit about Unity 2d <br />
 - Gameplay is very simple: <br />
 - Collecting all the stars and moving the ball to the target <br />
 - You need hover the mouse on the platforms to activate them <br />
-<br />
+
 - Thanks to Harry Kilian <br />
 
 ## Conclusion:
