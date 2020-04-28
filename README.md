@@ -19,6 +19,6 @@ Thanks to Harry Kilian
 
 <img src="https://i.imgur.com/3kmB4dB.png" width="400"/>
 
-Play Online: https://whknightz.itch.io/quick-switch
+<b>Play Online:</b> https://whknightz.itch.io/quick-switch
 
-How to play: https://youtu.be/SAi36XjTVtg
+<b>How to play:</b> https://youtu.be/SAi36XjTVtg
